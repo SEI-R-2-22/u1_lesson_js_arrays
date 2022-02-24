@@ -56,7 +56,7 @@ friend.length
 Using the JavaScript Keyword `new`, is one way of creating arrays:
 
 ```javascript
-let a = new Array();
+let a = new Array;
 => undefined
 
 a[0] = 'dog';
