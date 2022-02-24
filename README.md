@@ -49,7 +49,7 @@ friend.length
 //=> 19
 ```
 
-![Ray](https://i.gifer.com/2IpC.gif)
+![Ray](https://c.tenor.com/lK9WCmPFfUIAAAAC/finding-nemo-sting-ray.gif)
 
 ### Working with Arrays
 
