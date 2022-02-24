@@ -49,7 +49,7 @@ friend.length
 //=> 19
 ```
 
-![Ray](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.ohmyluxo.com%2Fuploads%2F3%2F8%2F2%2F4%2F38249737%2F6508362_orig.gif&f=1&nofb=1)
+![Ray](https://i.gifer.com/2IpC.gif)
 
 ### Working with Arrays
 
