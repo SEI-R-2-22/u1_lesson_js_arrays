@@ -129,6 +129,9 @@ Arrays come with a number of methods. Here's a list of some popular helpers:
 
 - `a.unshift(item)` - Prepends items to the start of the array.
 
+
+Like scales on the guitar, or spices in a kitchen, the more Array Methods you are familiar with, the more you will be able to do. Don't give yourself a headache trying to memorize all of them. With practice and repetition you will see the uses and abilities of each, and how best to find them to use.
+
 ![Shift](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fo5BzNDDFQnepi%2Fgiphy.gif&f=1&nofb=1)
 
 ## Lesson Recap
